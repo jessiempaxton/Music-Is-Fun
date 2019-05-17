@@ -1,0 +1,11 @@
+#song-list {
+  list-style-type: none;
+}
+
+*{
+  padding: 0;
+}
+
+#welcome {
+  margin-right: 60px;
+}
